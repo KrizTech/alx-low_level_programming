@@ -19,7 +19,7 @@ int main(void)
 			{
 				putchar(hundred);
 				putchar(ten);
-				putchr(one);
+				putchar(one);
 				if (hundred != '7' || ten != '8' || one != '9')
 				{
 					putchar(',');
