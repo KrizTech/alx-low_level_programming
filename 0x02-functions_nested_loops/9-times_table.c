@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * time_table - print multiplication table
+ * time_table - pint multiplication table
  */
 
 void time_table(void)
