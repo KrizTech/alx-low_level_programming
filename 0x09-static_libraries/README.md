@@ -1,0 +1,1 @@
+My static libraris readme
