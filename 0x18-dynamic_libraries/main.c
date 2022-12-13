@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	printf("==> %d\n", _strlen("chris"));
+	printf("==> %d\n", _strlen("Chris"));
 
 	return (0);
 }
